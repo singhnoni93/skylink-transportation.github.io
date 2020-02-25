@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/skylink-transportation/static/css/main.d1b05096.chunk.css",
+    "main.js": "/skylink-transportation/static/js/main.227cf6bf.chunk.js",
+    "main.js.map": "/skylink-transportation/static/js/main.227cf6bf.chunk.js.map",
+    "runtime-main.js": "/skylink-transportation/static/js/runtime-main.ea543588.js",
+    "runtime-main.js.map": "/skylink-transportation/static/js/runtime-main.ea543588.js.map",
+    "static/js/2.c933cf0a.chunk.js": "/skylink-transportation/static/js/2.c933cf0a.chunk.js",
+    "static/js/2.c933cf0a.chunk.js.map": "/skylink-transportation/static/js/2.c933cf0a.chunk.js.map",
+    "index.html": "/skylink-transportation/index.html",
+    "precache-manifest.142452608e8fc065ee618d090cd3a41e.js": "/skylink-transportation/precache-manifest.142452608e8fc065ee618d090cd3a41e.js",
+    "service-worker.js": "/skylink-transportation/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/skylink-transportation/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c933cf0a.chunk.js.LICENSE.txt": "/skylink-transportation/static/js/2.c933cf0a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/skylink-transportation/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea543588.js",
+    "static/js/2.c933cf0a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.227cf6bf.chunk.js"
+  ]
+}
